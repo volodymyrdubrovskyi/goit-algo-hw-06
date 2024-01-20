@@ -1,8 +1,11 @@
 # Завдання 2.
 
 Aлгоритм BFS (Breadth-first search):
+
 Lviv Uman Kyiv Dnipro Odessa Kharkiv
+
 Aлгоритм DFS (Depth-first search):
+
 Lviv Kyiv Kharkiv Dnipro Odessa Uman
 
 ## Aлгоритм BFS (Breadth-first search):
